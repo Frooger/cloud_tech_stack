@@ -5,7 +5,7 @@ Also It provide useful informations on What should be expect if you want to buil
 
 ## Getting Started
 
-| Title                                               | Level          |                                                            link  |
+| Title                                               | Level          |                                                            Link  |
 | -------------                                       |:-------------:|                                                            -----:|
 | What is the cloud and how does it work?             | `starter` | https://www.cloudplan.net/blogdetail/What-is-the-cloud-and-how-does-it-work |
 | 10 Design Principles for AWS Cloud Architecture     | `medium` | https://www.botmetric.com/blog/aws-cloud-architecture-design-principles|
