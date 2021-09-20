@@ -18,6 +18,7 @@ that exists.
 
 ## Security 
 
+### JWT- Token
 
 ## Information Levels
  | Level | Description |
