@@ -8,6 +8,7 @@ that exists.
 | Title                                               | Tag.          |                                                            link  |
 | -------------                                       |:-------------:|                                                            -----:|
 | 10 Design Principles for AWS Cloud Architecture     | `starter` | https://www.botmetric.com/blog/aws-cloud-architecture-design-principles|
+| What is the cloud and how does it work?             | `starter` | https://www.cloudplan.net/blogdetail/What-is-the-cloud-and-how-does-it-work |
 
 ## Micro-Services Arch
 
