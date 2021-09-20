@@ -16,6 +16,9 @@ that exists.
 
 ## Scalability 
 
+## Avaibilty
+
+
 ## Security 
 
 ### JWT- Token
