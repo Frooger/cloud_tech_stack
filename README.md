@@ -7,8 +7,9 @@ that exists.
 
 | Title                                               | Level          |                                                            link  |
 | -------------                                       |:-------------:|                                                            -----:|
-| 10 Design Principles for AWS Cloud Architecture     | `medium` | https://www.botmetric.com/blog/aws-cloud-architecture-design-principles|
 | What is the cloud and how does it work?             | `starter` | https://www.cloudplan.net/blogdetail/What-is-the-cloud-and-how-does-it-work |
+| 10 Design Principles for AWS Cloud Architecture     | `medium` | https://www.botmetric.com/blog/aws-cloud-architecture-design-principles|
+
 
 ## Micro-Services Arch
 
