@@ -17,7 +17,8 @@ that exists.
 
 
 ## Information Levels
- |Level|Description|
+ | Level | Description |
+ | -------------|:-------------:|
  |`starter`| No requirements needed |
  |`medium`| Base requirements needed |
  |`high`| High requirements needed |
