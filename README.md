@@ -22,7 +22,7 @@ that exists.
 ## Security 
 
 ### JWT- Token
-### Code Challange
+### Code Challenge
 
 ## Information Levels
  | Level | Description |
